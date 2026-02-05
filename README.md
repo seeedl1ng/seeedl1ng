@@ -2,9 +2,7 @@
 
 All my projects:
 
-<p style="text-align: center;">A piece of centered text</p>
-
-Minecraft
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ       Minecraft
 
 [Scape and Run: Parasites The Horrors Evolving Yet](https://github.com/seeedl1ng/THEY) | Modpack
 
