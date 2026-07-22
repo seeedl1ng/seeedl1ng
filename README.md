@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, I'm Igor. Self-taught developer
 
 All my projects:
 
