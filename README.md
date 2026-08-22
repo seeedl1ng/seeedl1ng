@@ -1,5 +1,4 @@
-# Hi there 👋, I'm Igor. Self-taught developer
-
+# Hi there 👋, I'm Igor!
 All my projects:
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Minecraft
