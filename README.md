@@ -3,7 +3,7 @@ All my projects:
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Minecraft
 
-[Scape and Run: Parasites The Horrors Evolving Yet](https://github.com/seeedl1ng/THEY) | Modpack
+[Scape and Run: Parasites - The Horrors Evolving Yet](https://github.com/THEY-modpack/THEY) | Modpack
 
 <a href="#"><img width="16" height="16" alt="pack16" src="https://github.com/user-attachments/assets/08c4e309-1557-47e9-bd60-eb4c91d3510b" /></a> BNT [[Modrinth](https://modrinth.com/resourcepack/bnt)] [[CurseForge](https://www.curseforge.com/minecraft/texture-packs/bnt)] | Resourse Pack
 
