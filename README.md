@@ -13,7 +13,7 @@ All my projects:
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; The Forest
 
-[Forestium](https://github.com/seeedl1ng/Forestium) | BepInEx 6 Mod
+[Forestium]() | BepInEx 6 Mod
 
 &nbsp;
 
